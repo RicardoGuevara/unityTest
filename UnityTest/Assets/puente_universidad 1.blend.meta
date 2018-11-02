@@ -33,6 +33,8 @@ ModelImporter:
     3300002: Plane
     4300000: Plane
     4300002: Cube_006
+    6400000: Cube_006
+    6400002: Plane
     7400000: Default Take
     9500000: //RootNode
     2186277476908879412: ImportLogs
@@ -69,7 +71,7 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
