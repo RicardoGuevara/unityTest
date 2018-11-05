@@ -53,6 +53,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Check\CheckPoint.cs" />
+     <Compile Include="Assets\Check\PlayerController.cs" />
      <Compile Include="Assets\GoogleVR\DemoScenes\ControllerDemo\ControllerDebugInfo.cs" />
      <Compile Include="Assets\GoogleVR\DemoScenes\ControllerDemo\ControllerDemoManager.cs" />
      <Compile Include="Assets\GoogleVR\DemoScenes\HeadsetDemo\FPS.cs" />
@@ -100,16 +102,16 @@
      <None Include="Assets\GoogleVR\Resources\UI\GvrReticleShader.shader" />
      <None Include="Assets\GoogleVR\Resources\SolidColor.shader" />
  <Reference Include="UnityEditor.StandardEvents">
- <HintPath>C:/Users/CORE I5 6TA/Documents/LibrosJuan/Programas semanales/Cuarto semestre/Datos 2/Proyectos/unityTest-master/UnityTest/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+ <HintPath>C:/Users/CORE I5 6TA/Desktop/unityTest/UnityTest/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>C:/Users/CORE I5 6TA/Documents/LibrosJuan/Programas semanales/Cuarto semestre/Datos 2/Proyectos/unityTest-master/UnityTest/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>C:/Users/CORE I5 6TA/Desktop/unityTest/UnityTest/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PackageManagerUI.Editor">
- <HintPath>C:/Users/CORE I5 6TA/Documents/LibrosJuan/Programas semanales/Cuarto semestre/Datos 2/Proyectos/unityTest-master/UnityTest/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+ <HintPath>C:/Users/CORE I5 6TA/Desktop/unityTest/UnityTest/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>C:/Users/CORE I5 6TA/Documents/LibrosJuan/Programas semanales/Cuarto semestre/Datos 2/Proyectos/unityTest-master/UnityTest/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>C:/Users/CORE I5 6TA/Desktop/unityTest/UnityTest/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -310,7 +312,7 @@
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
  </Reference>
  <Reference Include="Google.ProtocolBuffers">
- <HintPath>C:/Users/CORE I5 6TA/Documents/LibrosJuan/Programas semanales/Cuarto semestre/Datos 2/Proyectos/unityTest-master/UnityTest/Assets/Plugins/Google.ProtocolBuffers.dll</HintPath>
+ <HintPath>C:/Users/CORE I5 6TA/Desktop/unityTest/UnityTest/Assets/Plugins/Google.ProtocolBuffers.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Analytics">
  <HintPath>C:/Users/CORE I5 6TA/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.16/UnityEngine.Analytics.dll</HintPath>
