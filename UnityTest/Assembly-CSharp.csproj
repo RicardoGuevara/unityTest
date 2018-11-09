@@ -96,7 +96,9 @@
      <Compile Include="Assets\GoogleVR\Scripts\VRDevices\EditorDevice.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\VRDevices\GvrDevice.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\VRDevices\iOSDevice.cs" />
+     <Compile Include="Assets\Menu.cs" />
      <Compile Include="Assets\MovimientoConTeclado.cs" />
+     <Compile Include="Assets\posicion.cs" />
      <None Include="Assets\GoogleVR\Distortion\GvrDistortion.cginc" />
      <None Include="Assets\GoogleVR\Resources\UnlitTexture.shader" />
      <None Include="Assets\GoogleVR\Resources\UI\GvrReticleShader.shader" />
